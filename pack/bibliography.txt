@@ -1,0 +1,9 @@
+BIBLIOGRAPHY
+Website:
+ a). stackoverflow.com
+   1.To Allign button in tkinter window
+   2.How to extract a particular value of row value on inputting a value of a particular row.
+   3.How to run python script from another python script
+b). geeksforgeeks.org
+   1.tkinter module
+   2.openpyxl module
